@@ -1,0 +1,6 @@
+# Variável texto
+texto = 'Olá, laço for.'
+
+# Iteração sobre os caracteres do texto
+for item in texto:
+    print(f'Caractere: {item}')
